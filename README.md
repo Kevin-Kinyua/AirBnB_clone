@@ -169,4 +169,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Kevin Kinyua | Email: [kevinkinyua](mailto:w.kevinkinyua@gmail.com) 
+Kevin Kinyua | Email: [Kevin-Kinyua](mailto:w.kevinkinyua@gmail.com) 
